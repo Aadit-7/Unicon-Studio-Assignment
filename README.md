@@ -9,3 +9,6 @@
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for responsive design.
 - **React Icons**: Library for including customizable icons in the app.
+
+## Deployed Link
+- https://unicon-studio-assignment.vercel.app/
